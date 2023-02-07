@@ -1,0 +1,88 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "ColoredSlime_Orange_Slime_Block": {
+      "textures": [
+        "textures/blocks/ColoredSlime_Orange_Slime_Block"
+      ]
+    },
+    "ColoredSlime_Red_Slime_Block": {
+      "textures": [
+        "textures/blocks/ColoredSlime_Red_Slime_Block"
+      ]
+    },
+    "ColoredSlime_White_Slime_Block": {
+      "textures": [
+        "textures/blocks/ColoredSlime_White_Slime_Block"
+      ]
+    },
+    "ColoredSlime_Yellow_Slime_Block": {
+      "textures": [
+        "textures/blocks/ColoredSlime_Yellow_Slime_Block"
+      ]
+    },
+    "ColoredSlime_Lime_Slime_Block": {
+      "textures": [
+        "textures/blocks/ColoredSlime_Lime_Slime_Block"
+      ]
+    },
+    "ColoredSlime_Black_Slime_Block": {
+      "textures": [
+        "textures/blocks/ColoredSlime_Black_Slime_Block"
+      ]
+    },
+    "ColoredSlime_Purple_Slime_Block": {
+      "textures": [
+        "textures/blocks/ColoredSlime_Purple_Slime_Block"
+      ]
+    },
+    "ColoredSlime_Green_Slime_Block": {
+      "textures": [
+        "textures/blocks/ColoredSlime_Green_Slime_Block"
+      ]
+    },
+    "ColoredSlime_Blue_Slime_Block": {
+      "textures": [
+        "textures/blocks/ColoredSlime_Blue_Slime_Block"
+      ]
+    },
+    "ColoredSlime_Light_Blue_Slime_Block": {
+      "textures": [
+        "textures/blocks/ColoredSlime_Light_Blue_Slime_Block"
+      ]
+    },
+    "ColoredSlime_Cyan_Slime_Block": {
+      "textures": [
+        "textures/blocks/ColoredSlime_Cyan_Slime_Block"
+      ]
+    },
+    "ColoredSlime_Brown_Slime_Block": {
+      "textures": [
+        "textures/blocks/ColoredSlime_Brown_Slime_Block"
+      ]
+    },
+    "ColoredSlime_Magenta_Slime_Block": {
+      "textures": [
+        "textures/blocks/ColoredSlime_Magenta_Slime_Block"
+      ]
+    },
+    "ColoredSlime_Pink_Slime_Block": {
+      "textures": [
+        "textures/blocks/ColoredSlime_Pink_Slime_Block"
+      ]
+    },
+    "ColoredSlime_Light_Gray_Slime_Block": {
+      "textures": [
+        "textures/blocks/ColoredSlime_Light_Gray_Slime_Block"
+      ]
+    },
+    "ColoredSlime_Gray_Slime_Block": {
+      "textures": [
+        "textures/blocks/ColoredSlime_Gray_Slime_Block"
+      ]
+    }
+  }
+}

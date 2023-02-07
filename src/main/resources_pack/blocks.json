@@ -1,0 +1,71 @@
+{
+  "ColoredSlime:Orange_Slime_Block": {
+    "textures": "ColoredSlime_Orange_Slime_Block",
+    "sound": "slime"
+  },
+  "ColoredSlime:Red_Slime_Block": {
+    "textures": "ColoredSlime_Red_Slime_Block",
+    "sound": "slime"
+  },
+  "ColoredSlime:White_Slime_Block": {
+    "textures": "ColoredSlime_White_Slime_Block",
+    "sound": "slime"
+  },
+  "ColoredSlime:Yellow_Slime_Block": {
+    "textures": "ColoredSlime_Yellow_Slime_Block",
+    "sound": "slime"
+  },
+  "ColoredSlime:Lime_Slime_Block": {
+    "textures": "ColoredSlime_Lime_Slime_Block",
+    "sound": "slime"
+  },
+  "ColoredSlime:Black_Slime_Block": {
+    "textures": "ColoredSlime_Black_Slime_Block",
+    "sound": "slime"
+  },
+  "ColoredSlime:Purple_Slime_Block": {
+    "textures": "ColoredSlime_Purple_Slime_Block",
+    "sound": "slime"
+  },
+  "ColoredSlime:Green_Slime_Block": {
+    "textures": "ColoredSlime_Green_Slime_Block",
+    "sound": "slime"
+  },
+  "ColoredSlime:Blue_Slime_Block": {
+    "textures": "ColoredSlime_Blue_Slime_Block",
+    "sound": "slime"
+  },
+  "ColoredSlime:Light_Blue_Slime_Block": {
+    "textures": "ColoredSlime_Light_Blue_Slime_Block",
+    "sound": "slime"
+  },
+  "ColoredSlime:Cyan_Slime_Block": {
+    "textures": "ColoredSlime_Cyan_Slime_Block",
+    "sound": "slime"
+  },
+  "ColoredSlime:Brown_Slime_Block": {
+    "textures": "ColoredSlime_Brown_Slime_Block",
+    "sound": "slime"
+  },
+  "ColoredSlime:Magenta_Slime_Block": {
+    "textures": "ColoredSlime_Magenta_Slime_Block",
+    "sound": "slime"
+  },
+  "ColoredSlime:Pink_Slime_Block": {
+    "textures": "ColoredSlime_Pink_Slime_Block",
+    "sound": "slime"
+  },
+  "ColoredSlime:Light_Gray_Slime_Block": {
+    "textures": "ColoredSlime_Light_Gray_Slime_Block",
+    "sound": "slime"
+  },
+  "ColoredSlime:Gray_Slime_Block": {
+    "textures": "ColoredSlime_Gray_Slime_Block",
+    "sound": "slime"
+  },
+  "format_version": [
+    1,
+    1,
+    0
+  ]
+}
